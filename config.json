@@ -1,0 +1,10 @@
+{
+  "active_color": "red",
+  "min_area": 800,
+  "colors": {
+    "red": {"lower": [0, 120, 70], "upper": [10, 255, 255], "box_color": [0, 0, 255]},
+    "green": {"lower": [36, 50, 70], "upper": [89, 255, 255], "box_color": [0, 255, 0]},
+    "blue": {"lower": [90, 60, 70], "upper": [128, 255, 255], "box_color": [255, 0, 0]},
+    "yellow": {"lower": [20, 100, 100], "upper": [35, 255, 255], "box_color": [0, 255, 255]}
+  }
+}
